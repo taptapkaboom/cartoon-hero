@@ -1,2 +1,2 @@
 # cartoon-hero
-A website about my cartoon hero
+A website about my awesome cartoon hero
